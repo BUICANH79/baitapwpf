@@ -1,2 +1,2 @@
 # baitapwpf
-bài tập wpf
+Thực hành WPf, thực đơn (Menus) và hộp thoại Windows
